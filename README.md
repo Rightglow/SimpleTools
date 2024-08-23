@@ -1,5 +1,5 @@
 # 总览
-该仓库用于快捷下载我未来会提供的一系列小工具。下面会附带每个工具的使用说明和更新日志。
+该仓库用于方便地管理和下载我未来会提供的一系列工具。下面会附带每个工具的使用说明和更新日志。
 
 ## rename_authors_gui
 用于提供方便的windows平台docx文件审阅作者修改工具，可以返回当前路径下的docx文件，选择文件后可以返回所有审阅作者并单独进行修改。下载rename_authors_gui.zip并解压缩，将目标docx文件放到同一目录下，打开rename_authors_gui.exe文件使用即可。Thanks for Moxl_ and Mr. He for your feedback.
