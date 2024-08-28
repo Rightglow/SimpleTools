@@ -12,7 +12,7 @@
 ### v0.4
 支持打开程序时选择工作目录，直接确认则默认为当前目录。支持修改作者页面按回车直接生成。
 
-# rename_authors_gui
+# POAGenerator
 用于提供仲裁/诉讼委托生成器，支持对同目录config.txt载入和保存，支持配置律师手机号，下载POAGenerator.zip并解压缩，打开POAGenerator.exe文件使用即可。载入、保存和文件配置功能请查看config.txt内说明。
 
 ## Update Log
