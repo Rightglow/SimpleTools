@@ -1,8 +1,8 @@
 # 总览
 该仓库用于方便地管理文件下载和工具使用说明，并附带更新日志。
 
-# rename_authors_gui / 审阅作者转换工具
-用于提供方便的windows平台docx文件审阅作者修改工具，可以返回当前路径下的docx文件，选择文件后可以返回所有审阅作者并单独进行修改。下载rename_authors_gui.zip并解压缩，将目标docx文件放到同一目录下，打开rename_authors_gui.exe文件使用即可。Thanks for Moxl_ and Mr. He for your feedback.
+# rename_authors / 审阅作者转换工具
+用于提供方便的windows平台docx文件审阅作者修改工具，可以返回当前路径下的docx文件，选择文件后可以返回所有审阅作者并单独进行修改。下载rename_authors.zip并解压缩，将目标docx文件放到同一目录下，打开rename_authors_gui.exe文件使用即可。Thanks for Moxl_ and Mr. He for your feedback.
 
 ## Update Log
 ### v0.2
