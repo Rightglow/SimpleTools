@@ -1,7 +1,7 @@
 # 总览
 该仓库用于方便地管理文件下载和工具使用说明，并附带更新日志。
 
-# rename_authors_gui
+# rename_authors_gui / 审阅作者转换工具
 用于提供方便的windows平台docx文件审阅作者修改工具，可以返回当前路径下的docx文件，选择文件后可以返回所有审阅作者并单独进行修改。下载rename_authors_gui.zip并解压缩，将目标docx文件放到同一目录下，打开rename_authors_gui.exe文件使用即可。Thanks for Moxl_ and Mr. He for your feedback.
 
 ## Update Log
@@ -14,7 +14,7 @@
 ### v0.5
 支持不填默认值时保持原作者，修复了不选文件夹时会出错、新作者含有特殊字符时会出错的问题。
 
-# POAGenerator
+# POAGenerator / 委托书生成工具
 用于提供仲裁/诉讼委托生成器，支持对同目录config.txt载入和保存，支持配置律师手机号，下载POAGenerator.zip并解压缩，打开POAGenerator.exe文件使用即可。载入、保存和文件配置功能请查看config.txt内说明。
 
 ## Update Log
